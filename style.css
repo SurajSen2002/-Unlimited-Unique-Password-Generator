@@ -63,11 +63,10 @@ body{
 }
 .social img{
          height:auto;
-         width: 40px;
-         bottom:0;
-         margin-left: 50%;
-         margin-bottom: 10px;
-         position:fixed;
+         width: 35px;
+         margin-left:50%;
+         margin-right: 50%;
+}
 }
 button:hover{
     background-color: gold;
